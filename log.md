@@ -1,13 +1,14 @@
 # 100 Days Of Code - Log
 
 **Link to work:**
-[project](https://github.com/vturrisi/pytorch-journey)
+[project](https://github.com/silva-matheus/blockchain)
 
 ### Day 1: Jan 22, 2018
 
 **Today's Progress**:
-- Created a base project to start learning pytorch
-- Forward and backwardprop by 'hand' using pytorch
+- Study Django Pagination;
+- Study Django Dynamic Content
+- Study Django ORM Query Structure
 
 **Info**:
-- Computed loss by hand so that pytorch can perform auto derivative
+- Studying Django and Django REST framework
