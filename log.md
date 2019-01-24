@@ -24,3 +24,14 @@
 
 **Info**:
 - Studying Django and Django REST framework
+
+### Day 3: Jan 24, 2019
+
+**Today's Progress**:
+- Study JSON methods in Django(JsonResponse, HttpResponse+json.dumps);
+- Study view classes in Django;
+- Serialize data with Django.
+
+
+**Info**:
+- Studying Django and Django REST framework
