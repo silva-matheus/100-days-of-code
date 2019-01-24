@@ -2,7 +2,7 @@
 
 **Link to work:**
 [REST APIs](https://github.com/silva-matheus/blockchain)
-[project](https://github.com/silva-matheus/blockchain)
+[Blockchain API](https://github.com/silva-matheus/blockchain)
 
 ### Day 1: Jan 22, 2019
 
