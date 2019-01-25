@@ -35,3 +35,14 @@
 
 **Info**:
 - Studying Django and Django REST framework
+
+
+### Day 4: Jan 25, 2019
+
+**Today's Progress**:
+- Serialize data with Django;
+- Setting up a pure Django API module.
+
+
+**Info**:
+- Studying Django and Django REST framework
