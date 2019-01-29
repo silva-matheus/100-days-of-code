@@ -46,3 +46,22 @@
 
 **Info**:
 - Studying Django and Django REST framework
+
+### Day 5: Jan 28, 2019
+
+**Today's Progress**:
+- Writing the GET, PUT, POST, and DELETE endpoints methods for the test API;
+- Setting up a new Python script for test the API endpoints;
+
+
+**Info**:
+- Studying Django and Django REST framework
+
+
+### Day 6: Jan 29, 2019
+
+**Today's Progress**:
+- Handling Erros
+
+**Info**:
+- Studying Django and Django REST framework
