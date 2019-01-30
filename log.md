@@ -65,3 +65,16 @@
 
 **Info**:
 - Studying Django and Django REST framework
+
+
+### Day 7: Jan 30, 2019
+
+**Today's Progress**:
+- Handling Errors;
+- Django CSRF auth;
+- Status Codes;
+- Django Mixin funtion: a mixin function is a especial kind of multiple inheritance offered by python. A mixin function are used for: provide a lot of optionl features for a class and use a particular feature in a different classes;
+- Validating data with a model;
+
+**Info**:
+- Studying Django and Django REST framework
