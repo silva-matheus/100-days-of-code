@@ -50,7 +50,7 @@
 ### Day 5: Jan 28, 2019
 
 **Today's Progress**:
-- Writing the GET, PUT, POST, and DELETE endpoints methods for the test API;
+- Writing the GET, PUT, POSTw and DELETE endpoints methods for the test API;
 - Setting up a new Python script for test the API endpoints;
 
 
