@@ -61,7 +61,7 @@
 ### Day 6: Jan 29, 2019
 
 **Today's Progress**:
-- Handling Erros
+- Handling Errors.
 
 **Info**:
 - Studying Django and Django REST framework
