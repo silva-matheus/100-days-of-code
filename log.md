@@ -73,7 +73,7 @@
 - Handling Errors;
 - Django CSRF auth;
 - Status Codes;
-- Django Mixin funtion: a mixin function is a especial kind of multiple inheritance offered by python. A mixin function are used for: provide a lot of optionl features for a class and use a particular feature in a different classes;
+- Django Mixin funtion: a mixin function is a especial kind of multiple inheritance offered by python. A mixin function are used for: provide a lot of optionl features for a class or use a particular feature in a different classes;
 - Validating data with a model;
 
 **Info**:
