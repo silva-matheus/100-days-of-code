@@ -78,3 +78,17 @@
 
 **Info**:
 - Studying Django and Django REST framework
+
+
+### Day 8: Jan 31, 2019
+
+**Today's Progress**:
+- Validating data with a model;
+- Finish POST and GET Endpoints;
+- Working on PUT and DELETE endpoints;
+- Start to see how to Validate JSON data with Django.
+
+
+
+**Info**:
+- Studying Django and Django REST framework
