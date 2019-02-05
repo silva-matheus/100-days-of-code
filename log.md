@@ -89,6 +89,26 @@
 - Start to see how to Validate JSON data with Django.
 
 
+**Info**:
+- Studying Django and Django REST framework
+
+
+
+### Day 9: Jan 02, 2019
+
+**Today's Progress**:
+- Working on PUT and DELETE endpoints;
+- Fix the bugs on put endpoint;
+- Finish the API's CRUD endpoints.
+
+**Info**:
+- Studying Django and Django REST framework.
+
+
+### Day 10: Jan 04, 2019
+
+**Today's Progress**:
+- Restructure API's endpoints;
 
 **Info**:
 - Studying Django and Django REST framework
